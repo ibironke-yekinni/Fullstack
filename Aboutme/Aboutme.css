@@ -1,0 +1,20 @@
+h1{
+    color: rgb( 255,255,255);
+    /*border-color: purple;
+    border-width: 5px;
+    border-style: solid;*/
+    border: 2px purple solid;
+}
+li{
+    color:green;
+}
+h4{ 
+    background: rgb( 255,100,80);
+}
+body{
+    background-color: pink
+    /*background: url(https://images-na.ssl-images-amazon.com/images/I/91WdmdW3uOL._SX425_.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;*/
+}
+    
